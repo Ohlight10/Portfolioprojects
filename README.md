@@ -1,7 +1,7 @@
 #Bike_buyers project.
 
 In the busy city of Metropolis, people were using bikes more for transportation. Local bike shops were selling lots of bikes, and they wanted to understand their customers better. I downloaded the messy CSV file with customer info and clean it. I used Excel to remove duplicates, fix dates, and add missing info. The data became neat and useful. Then, I made it look better by organizing it, adding titles, and using colors. I made a pivot table to study the bike buyers' details. I sorted them by age, marital status, education, gender, income, and region. I noticed that most bike buyers were young, meaning young people liked using bikes. To share my findings, I created a dashboard with charts and graphs in Excel. This project showed that using data analysis and Excel can give helpful insights and make the city more bike-friendly.
-
+![bikebuyer jpeg](https://github.com/Ohlight10/Portfolioprojects/assets/132715415/41d28821-38c4-4e3f-8b6d-2bd2f539f075)
 
 
 
