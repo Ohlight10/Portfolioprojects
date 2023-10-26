@@ -16,11 +16,15 @@ DATA VISUALIZATION
 
 ![bikebuyer jpeg](https://github.com/Ohlight10/Portfolioprojects/assets/132715415/41d28821-38c4-4e3f-8b6d-2bd2f539f075)
 
+
 Insights:
 . Most bike buyers are middle age
 . Male middle age income earner purchase bike than the female
 . people with short distance 0-1miles use bike as mode of transport than people with wide distance miles
 . Education background has no limit on bike buyer usage
+
+
+
 
 
 
