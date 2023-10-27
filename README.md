@@ -8,9 +8,9 @@ in this task, i needed to clean the data set by removing any missing or irreleva
 
 Data Transformation:
 Tranformed the data to create the following new colums:
-. Average income per purchase
-. Customer Age Brackets
-. Customer commute
+* Average income per purchase
+* Customer Age Brackets
+* Customer commute
 
 DATA VISUALIZATION
 
@@ -18,10 +18,10 @@ DATA VISUALIZATION
 
 
 Insights:
-. Most bike buyers are middle age
-. Male middle age income earner purchase bike than the female
-. people with short distance 0-1miles use bike as mode of transport than people with wide distance miles
-. Education background has no limit on bike buyer usage
+* Most bike buyers are middle age
+* Male middle age income earner purchase bike than the female
+* people with short distance 0-1miles use bike as mode of transport than people with wide distance miles
+* Education background has no limit on bike buyer usage
 
 
 
