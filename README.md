@@ -29,6 +29,32 @@ Insights:
 
 
 
-#Data professional breakdown.
+# Project Name:Data professional breakdown.
+
+Poject Details.
+
+The dataset contains information of data professional breakdown, current data role,current yearly salary,industry,  favourite programming language, country of residence, gender,level of education and ethnicity. The objective of this project is to use Poer BI to visualize the data and answer the following questions and more:
+* what is the average salary of a data professional?
+* what is the favourite programming language among data professional?
+* how difficult it is to break into data profession?
+* which gender has the highest number of data professional?
+
+
+  Data Cleaning:
+  ![datap](https://github.com/Ohlight10/Portfolioprojects/assets/132715415/dce9b5ac-8de2-4289-9446-98bbd9e6f2cc)
+
+  Data cleaning  was done on Powe Query Editor
+  
+  Data Visualization:
+
+ ![Datapp](https://github.com/Ohlight10/Portfolioprojects/assets/132715415/5048d43b-cb8a-4ece-858f-dfb137fcdf28)
+
+ Insights:
+
+ * show that data jobs are everywhere
+ * Python was the top choice for programming
+ * show that data scientists and data engineers made the most money
+ * Education and experience are important for newcomers
+ * 
 
 AlexTheAnalyst, a data expert, conducted a big survey to learn more about the data field and career trends. They asked data professionals worldwide about their favorite programming languages, job titles, salaries, and how hard it was to start in the data world. I downloaded the csv file and used Power BI to make a cool dashboard with the survey results. It showed that data jobs are everywhere, and Python was the top choice for programming. The dashboard also displayed salaries for different roles, and data scientists and data engineers made the most money. Most people in the survey thought it was somewhat hard to get into data, so education and experience are important for newcomers.
