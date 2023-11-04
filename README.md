@@ -34,10 +34,10 @@ Insights:
 Poject Details.
 
 The dataset contains information of data professional breakdown, current data role,current yearly salary,industry,  favourite programming language, country of residence, gender,level of education and ethnicity. The objective of this project is to use Poer BI to visualize the data and answer the following questions and more:
-* what is the average salary of a data professional?
-* what is the favourite programming language among data professional?
-* how difficult it is to break into data profession?
-* which gender has the highest number of data professional?
+* What is the average salary of a data professional?
+* What is the favourite programming language among data professional?
+* How difficult it is to break into data profession?
+* How flexible it is to work has data professional and is the role open to all irrespective of your country?
 
 
   Data Cleaning:
@@ -51,9 +51,9 @@ The dataset contains information of data professional breakdown, current data ro
 
  Insights:
 
- * show that data jobs are everywhere
+ * Show that data jobs are everywhere
  * Python was the top choice for programming
- * show that data scientists and data engineers made the most money
+ * Show that data scientists and data engineers made the most money
  * Education and experience are important for newcomers
    
 
